@@ -43,8 +43,6 @@ find /home/thomas -type f -exec grep -i "password" {} +
    - **Login**: `admin`
    - **Password**: `vYuzpN9MTHdxWw5a`
 
-   This gave me both the login credentials and a request to verify if they worked.
-
 ### 5. **Logging into the System**
 
    Using the credentials I found in the email, I successfully logged into the system with:
