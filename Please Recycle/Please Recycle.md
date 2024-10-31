@@ -7,7 +7,7 @@ Here’s a step-by-step breakdown of how I discovered the credentials and gained
    - I checked various directories, like `/var/log`, to find relevant information related to system activity.
    - I was looking for any traces of login credentials or other sensitive information.
 
-### 2. **Checking the `.todos.json` File:
+### 2. **Checking the** `.todos.json` File:
 
    I executed a search for the term "password" within my home directory:
    
