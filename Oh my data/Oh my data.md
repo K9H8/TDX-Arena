@@ -4,11 +4,12 @@
 
 1. **Identifying the Name**:
    - In the challenge video, we saw the name <**stikked**> at the **0:21** timestamp.
-![Screenshot 2024-12-19 123732](https://github.com/user-attachments/assets/501d3823-eab3-4557-b233-af7e6ffee0ce)
+![Screenshot 2024-12-19 123802](https://github.com/user-attachments/assets/6e5741a4-38d6-428f-9e1d-b6ce4d84ced3)
 
 2. **Finding the Relevant Post**:
    - Searching the latest posts for the name **stikked** led us to a post that linked to their website.
-![Screenshot 2024-12-19 123802](https://github.com/user-attachments/assets/6e5741a4-38d6-428f-9e1d-b6ce4d84ced3)
+
+![Screenshot 2024-12-19 123732](https://github.com/user-attachments/assets/501d3823-eab3-4557-b233-af7e6ffee0ce)
 
 3. **Discovering the Data Leak**:
    - On their website, I navigated to the **Recent** tab and found the accounts file under a section about a data leak.
