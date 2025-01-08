@@ -46,6 +46,3 @@ Upon entry, we can see that the router doesn't allow connections from the PT-Ser
    ![image](https://github.com/user-attachments/assets/2fb66147-a6bd-4a92-badf-4640472f1fcf)
 
 ---
-
-This concludes the solution to the "Route Me" challenge. Ensure all changes are saved, and document any additional findings for future reference.
-
